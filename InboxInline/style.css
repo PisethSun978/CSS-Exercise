@@ -15,7 +15,7 @@ body {
     background: lightblue;
     border: 3px solid purple;
     /* CHANGE ME */
-    margin-bottom: 40px;
+    margin-bottom: 48px;
   }
   
   .three {
@@ -24,5 +24,14 @@ body {
     width: 200px;
     /* CHANGE ME */
     padding: 30px;
-    margin-left: 335px;
+    margin-left: 335px; 
+    /* margin-left : auto is better */
   }
+/* Both work 
+
+
+
+
+
+*/
+  
